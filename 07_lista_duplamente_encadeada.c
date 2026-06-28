@@ -1,3 +1,23 @@
+/*
+---------------------------------------------------------
+Portfólio - Estrutura de Dados I
+
+Curso: Engenharia de Software
+Aluno: Gabriel Cotrim Miron
+
+Arquivo: 07_lista_duplamente_encadeada.c
+
+Conteúdo:
+- Lista duplamente encadeada
+- Inserção
+- Percurso direto
+- Percurso reverso
+
+Descrição:
+Implementação de lista duplamente encadeada em linguagem C.
+
+---------------------------------------------------------
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
