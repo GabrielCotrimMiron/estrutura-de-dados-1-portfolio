@@ -1,3 +1,24 @@
+/*
+---------------------------------------------------------
+Portfólio - Estrutura de Dados I
+
+Curso: Engenharia de Software
+Aluno: Gabriel Cotrim Miron
+
+Arquivo: 02_ponteiros.c
+
+Conteúdo:
+- Ponteiros
+- Endereçamento
+- Desreferenciação
+- Passagem por referência
+
+Descrição:
+Exemplo demonstrando o uso de ponteiros em linguagem C.
+
+---------------------------------------------------------
+*/
+
 #include <stdio.h>
 
 void troca(int *a, int *b) {
