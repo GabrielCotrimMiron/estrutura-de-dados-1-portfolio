@@ -1,3 +1,25 @@
+/*
+---------------------------------------------------------
+Portfólio - Estrutura de Dados I
+
+Curso: Engenharia de Software
+Aluno: Gabriel Cotrim Miron
+
+Arquivo: 09_fila.c
+
+Conteúdo:
+- Fila (Queue)
+- Enqueue
+- Dequeue
+- Impressão
+- Verificação de fila vazia
+
+Descrição:
+Implementação de uma fila utilizando vetor.
+
+---------------------------------------------------------
+*/
+
 #include <stdio.h>
 
 #define MAX 5
