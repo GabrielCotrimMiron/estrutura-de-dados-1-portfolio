@@ -1,3 +1,26 @@
+/*
+---------------------------------------------------------
+Portfólio - Estrutura de Dados I
+
+Curso: Engenharia de Software
+Aluno: Gabriel Cotrim Miron
+
+Arquivo: 05_lista_encadeada.c
+
+Conteúdo:
+- Lista simplesmente encadeada
+- Inserção
+- Busca
+- Remoção
+- Liberação de memória
+
+Descrição:
+Implementação de uma lista encadeada utilizando alocação
+dinâmica.
+
+---------------------------------------------------------
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
