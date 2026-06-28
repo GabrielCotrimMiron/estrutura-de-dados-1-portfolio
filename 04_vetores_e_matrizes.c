@@ -1,3 +1,23 @@
+/*
+---------------------------------------------------------
+Portfólio - Estrutura de Dados I
+
+Curso: Engenharia de Software
+Aluno: Gabriel Cotrim Miron
+
+Arquivo: 04_vetores_e_matrizes.c
+
+Conteúdo:
+- Vetores
+- Matrizes
+- Percurso utilizando laços
+
+Descrição:
+Exemplo de manipulação de vetores e matrizes em C.
+
+---------------------------------------------------------
+*/
+
 #include <stdio.h>
 
 int main() {
