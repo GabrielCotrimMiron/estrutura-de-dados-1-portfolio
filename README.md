@@ -41,5 +41,5 @@ Servir como portfólio da disciplina, reunindo exemplos práticos referentes aos
 
 ## Autor
 
-Gabriel Cotrim Miron
+Gabriel Cotrim Miron -
 Engenharia de Software
