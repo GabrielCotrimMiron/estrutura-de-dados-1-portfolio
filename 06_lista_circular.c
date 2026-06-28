@@ -1,3 +1,23 @@
+/*
+---------------------------------------------------------
+Portfólio - Estrutura de Dados I
+
+Curso: Engenharia de Software
+Aluno: Gabriel Cotrim Miron
+
+Arquivo: 06_lista_circular.c
+
+Conteúdo:
+- Lista circular
+- Inserção no final
+- Percurso circular
+
+Descrição:
+Exemplo de implementação de lista encadeada circular.
+
+---------------------------------------------------------
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
