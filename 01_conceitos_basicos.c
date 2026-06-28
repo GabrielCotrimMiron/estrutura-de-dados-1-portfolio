@@ -1,3 +1,25 @@
+/*
+---------------------------------------------------------
+Portfólio - Estrutura de Dados I
+
+Curso: Engenharia de Software
+Aluno: Gabriel Cotrim Miron
+
+Arquivo: 01_conceitos_basicos.c
+
+Conteúdo:
+- Variáveis
+- Operadores
+- Estruturas condicionais
+- Estruturas de repetição
+
+Descrição:
+Exemplo desenvolvido para demonstrar os conceitos básicos
+da linguagem C apresentados durante a disciplina.
+
+---------------------------------------------------------
+*/
+
 #include <stdio.h>
 
 int main() {
