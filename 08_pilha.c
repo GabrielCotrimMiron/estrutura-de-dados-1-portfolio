@@ -1,3 +1,26 @@
+/*
+---------------------------------------------------------
+Portfólio - Estrutura de Dados I
+
+Curso: Engenharia de Software
+Aluno: Gabriel Cotrim Miron
+
+Arquivo: 08_pilha.c
+
+Conteúdo:
+- Pilha (Stack)
+- Push
+- Pop
+- Impressão
+- Verificação de pilha vazia
+
+Descrição:
+Implementação de uma pilha dinâmica utilizando lista
+encadeada.
+
+---------------------------------------------------------
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
