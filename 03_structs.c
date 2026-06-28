@@ -1,3 +1,22 @@
+/*
+---------------------------------------------------------
+Portfólio - Estrutura de Dados I
+
+Curso: Engenharia de Software
+Aluno: Gabriel Cotrim Miron
+
+Arquivo: 03_structs.c
+
+Conteúdo:
+- Structs
+- Manipulação de estruturas
+
+Descrição:
+Exemplo de criação e utilização de estruturas na linguagem C.
+
+---------------------------------------------------------
+*/
+
 #include <stdio.h>
 
 typedef struct {
